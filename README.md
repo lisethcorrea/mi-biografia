@@ -23,4 +23,5 @@ este es mi primer sitio web. se trata de mi autobiografía y algunos otros aspec
 
 ### observaciones
 
--se trata de un sitio web a "blanco y negro" (solo HTML), que hace uso de todas las etiquetas vistas hasat ahora: texto,imagenes,videos,links,tablas,formularios
+-se trata de un sitio web a "blanco y negro" (solo HTML), que hace uso de todas las etiquetas vistas hasat ahora: texto,imagenes,videos,links,tablas,formularios,etc
+ cada pagina manejara minimamente la plantilla de la pagina index.html
